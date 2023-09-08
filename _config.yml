@@ -28,7 +28,7 @@ linkedin_username: jose-salgado81
 github_username: jose-salgado81
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
