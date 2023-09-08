@@ -40,3 +40,7 @@ gem "kramdown-parser-gfm"
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "github-pages", group: :jekyll_plugins
+
+
+# Minima 3.x theme
+gem "minima"
