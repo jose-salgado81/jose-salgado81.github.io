@@ -5,8 +5,6 @@ date:   2023-07-29 17:30:35 -0700
 categories: Reviews
 ---
 
-# Darkest Hour, 2017
-
 _He mobilized the English language and sent it into battle._
 
  -Quote from an ambiguous origin, often used to describe Churchill's ability with words
