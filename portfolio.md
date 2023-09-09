@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Services
-permalink: /Service/
+layout: blog
+title: Blog
+permalink: /blog/
 ---
-
-Technical writing for software.
