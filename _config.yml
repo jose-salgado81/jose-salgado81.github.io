@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: José Manuel Salgado, MSc.
+title: José M. Salgado
 email: hola@josemanuelsalgado.com
 description: | # Use a vertical bar (|) to preserve newlines in multiline strings
   Welcome to my website! Here, you can find my portfolio and the services I offer. You can also read my blog and find my qualifications and contact information.
