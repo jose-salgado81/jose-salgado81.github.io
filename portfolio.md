@@ -4,4 +4,4 @@ title: Services
 permalink: /Service/
 ---
 
-Technical writing for Software and SaaS.
+Technical writing for software.
