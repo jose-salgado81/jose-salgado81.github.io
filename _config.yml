@@ -20,7 +20,7 @@
 
 title: José M. Salgado
 email: hola@josemanuelsalgado.com
-description: | # Use a vertical bar (|) to preserve newlines in multiline strings
+description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website! Here, you read my blog and find my qualifications and contact information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
