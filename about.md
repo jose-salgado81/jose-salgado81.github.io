@@ -15,5 +15,5 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 * [Snagit Certificate](https://verify.skilljar.com/c/txu8363y8638) from Techsmith Academy, 2023-2025.
 * IBM Data Science Professional Certificate from Coursera.org, Ongoing.
     * [What is Data Science?](https://coursera.org/share/caefc6ff0dbf0a85c24efdf12e8acffd)
-    * [Tools for data science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
+    * [Tools for Data Science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
     * [Data Science Methodology](https://coursera.org/share/e3bedd8ff257467579fb8b36435d473d)
