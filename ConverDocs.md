@@ -15,7 +15,7 @@ Some things I'd like to see:
 
 By the end of 2022 Microsoft had already presented a demo that runs on Azure "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences." and that can be forked from [here](https://github.com/Azure-Samples/azure-search-openai-demo). Video presentation of this feature [here](https://www.youtube.com/watch?v=3t3qZu1Dy1k). 
 
-Lets use it as the foundation for this project. Off we go.
+Let's use it as the foundation for this project. Off we go.
 
 # Azure Setup
 
