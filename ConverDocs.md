@@ -19,10 +19,22 @@ A more refined (and recent) presentation of the same concepts can be found in th
 
 Let's use it as the foundation for this project. Off we go.
 
-# Training Data
+# Source Data
 The training data for the engine will be its own documentation, the documentation of ConverDocs. To improve machine reading we are going to write everything in markdown and publish it in a flat-file CMS like Grav. The chatbot will eventually reference to it as the source. It should be able to stand by itself and be fully functional documentation. The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor. 
 
 - [ConverDocs Documentation](http://f32-preview.awardspace.net/demo.josemanuelsalgado.com)
 
+# Sourcing Method
+
+We will be using [Retrieval Augmented Generation (RAG)](https://youtu.be/T-D1OfcDW1M?si=qjSc_TH8VK5eHt-8) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. This will also reduce the impact of hallucinations. 
+
 # Azure Setup
+
+# Large Language Model (LLM)
+The LLM that we will be usiung is GPT 3.5 through the Azure OpenAI Service
+
+
+
+
+
 
