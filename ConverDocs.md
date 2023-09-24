@@ -20,13 +20,15 @@ A more refined (and recent) presentation of the same concepts can be found in th
 Let's use it as the foundation for this project. Off we go.
 
 # Source Data
-The source data for the engine will be its own documentation, the documentation of ConverDocs. To improve machine reading we are going to write everything in markdown and publish it within the [ConverDocs repo](https://github.com/jose-salgado81/converdocs.git). The chatbot will eventually reference to it as the source. It should be able to stand by itself and be fully functional documentation. The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor.
+The source data for the engine will be its own documentation, the documentation for ConverDocs. To improve machine reading we are going to write everything in markdown and publish it within the [ConverDocs repo](https://github.com/jose-salgado81/converdocs.git). The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor.
+
+The chatbot will reference to the markdown files as the source, and will be used by the user to validate the answers, so it must be able to stand by itself as fully functional documentation.
 
 - [ConverDocs Documentation](https://github.com/jose-salgado81/converdocs/blob/main/document1.md)
 
 # Sourcing Method
 
-We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. RAG will also help to reduce hallucinations and to find vaccums of knowledge, as the model will be comfortable to say "I don't know".
+We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
 
 # Azure Setup
 
