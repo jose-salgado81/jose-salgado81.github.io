@@ -46,10 +46,15 @@ capacity: 120K TPM
 
 ### Configuration parameters:
 **temperature:** 0.5 ("a low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy")
+
 **max response:** 150 (short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload)
+
 **top P:** 0.5 this value was suggested by the bot itself: "allows to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy"
+
 **frequency penalty:** 0.5 ("a frequency penalty value of around 0.5-1.0 and a presence penalty value of around 0.5-1.0 can be a good starting point. These values will encourage the AI assistant to generate responses that are diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy.")
+
 **presence penalty:** 0.5
+
 **stop sequence:** 'Let me know if you have any other questions' (the stop sequence is a phrase that signals to the AI assistant that the user has received a satisfactory response and that it can stop generating additional information")
 
 ### Assistant setup
