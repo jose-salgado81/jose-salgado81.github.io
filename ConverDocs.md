@@ -20,7 +20,9 @@ A more refined (and recent) presentation of the same concepts can be found in th
 Let's use it as the foundation for this project. Off we go.
 
 # Source Data
-The source data for the engine will be its own documentation, the documentation for ConverDocs. To improve machine reading we are going to write everything in markdown and publish it within the [ConverDocs repo](https://github.com/jose-salgado81/converdocs.git). The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor.
+The source data for the engine will be its own documentation, the documentation for ConverDocs. 
+
+To improve machine reading we are going to write everything in markdown and publish it within the [ConverDocs repo](https://github.com/jose-salgado81/converdocs.git). The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor.
 
 The chatbot will reference to the markdown files as the source, and will be used by the user to validate the answers, so it must be able to stand by itself as fully functional documentation.
 
