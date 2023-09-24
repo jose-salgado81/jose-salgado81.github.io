@@ -26,7 +26,7 @@ The training data for the engine will be its own documentation, the documentatio
 
 # Sourcing Method
 
-We will be using [Retrieval Augmented Generation (RAG)](https://youtu.be/T-D1OfcDW1M?si=qjSc_TH8VK5eHt-8) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. This will also reduce the impact of hallucinations. 
+We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. This will also reduce the impact of hallucinations. 
 
 # Azure Setup
 
