@@ -30,7 +30,9 @@ The chatbot will reference to the markdown files as the source, and will be used
 
 # Sourcing Method
 
-We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer. RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
+We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer.
+
+RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
 
 # Azure Setup
 
