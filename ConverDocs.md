@@ -38,13 +38,14 @@ RAG will also help reduce hallucinations and find vaccums of knowledge, as the m
 The first thing to do in Azure is fulfill the [prerequisites](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?pivots=programming-language-studio&tabs=command-line#prerequisites) for using Azure OpenAI services, which include creating an Azure Open AI resource with a model deployed. 
 
 ## Model and Deployment
-| Spec           | Selection        |
-| -------------- | ---------------- |
-|model name      | gpt-35-turbo     |
-|deployment name | converdocsgpt    |
-|model revision  | 0301             |
-|deployment type | standard         |
-|capacity        | 120K TPM         |
+| Spec           | Selection       |
+| -------------- | --------------- |
+| Model name     | gpt-35-turbo    |
+| Deployment name| converdocsgpt   |
+| Model revision | 0301            |
+| Deployment type| standard        |
+| Capacity       | 120K TPM        |
+
 
 ### Configuration parameters:
 **temperature:** 0.5 ("a low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy")
