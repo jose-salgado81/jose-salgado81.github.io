@@ -48,8 +48,8 @@ The first thing to do in Azure is fulfill the [prerequisites](https://learn.micr
 
 
 ### Configuration parameters:
-| Parameter          | Value | Details |
-| -------------------| ----- | ------- |
+| Parameter | Value | Details |
+| --------- | ----- | ------- |
 | Temperature        | 0.5   | A low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
 | Max Response       | 150   | Short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload. |
 | Top P              | 0.5   | This value was suggested by the bot itself: "allows to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy." |
