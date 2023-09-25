@@ -48,7 +48,7 @@ The first thing to do in Azure is fulfill the [prerequisites](https://learn.micr
 
 
 ### Configuration parameters:
-| Parameter           | Value | Details and Explanation                                                                                             |
+| Parameter           | Value | Details                                                                                         |
 | ------------------- | ----- | ------------------------------------------------------------------------------------------------------------------ |
 | Temperature         | 0.5   | A low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
 | Max Response        | 150   | Short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload.                                            |
@@ -58,6 +58,5 @@ The first thing to do in Azure is fulfill the [prerequisites](https://learn.micr
 | Stop Sequence       | 'Let me know if you have any other questions' | The stop sequence is a phrase that signals to the AI assistant that the user has received a satisfactory response and that it can stop generating additional information. |
 
 ### Assistant setup
-**System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.'
-
+**System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
 
