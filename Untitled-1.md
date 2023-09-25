@@ -19,12 +19,8 @@ A more refined (and recent) presentation of the same concepts can be found in th
 
 Let's use it as the foundation for this project. Off we go.
 
-# Architecture
 
-![Diagram of the architecture of the project](architecture.png)
-
-
-# Source Data
+## Source Data
 The source data for the engine will be its own documentation, the documentation for ConverDocs. 
 
 To improve machine reading we are going to write everything in markdown and publish it within the [ConverDocs repo](https://github.com/jose-salgado81/converdocs.git). The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a popular screenshot editor.
@@ -33,16 +29,21 @@ The chatbot will reference to the markdown files as the source, and will be used
 
 - [ConverDocs Documentation](https://github.com/jose-salgado81/converdocs/blob/main/document1.md)
 
-# Sourcing Method
+## Sourcing Method
 
 We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) as the method to source the documentation to the model. Reasons? We need to ground the chatbot answers to the documentation, which means to list the places in the documentation used to craft the answer.
 
 RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
 
-# Azure Setup
+## Azure Setup
 The first thing to do in Azure is fulfill the [prerequisites](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?pivots=programming-language-studio&tabs=command-line#prerequisites) for using Azure OpenAI services, which include creating an Azure Open AI resource with a model deployed. 
 
-## Model and Deployment
+### Architecture
+
+![Diagram of the architecture of the project](architecture.png)
+
+
+### Model and Deployment
 | Spec           | Selection       |
 | -------------- | --------------- |
 | Model name     | gpt-35-turbo    |
