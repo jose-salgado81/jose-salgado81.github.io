@@ -48,14 +48,15 @@ The first thing to do in Azure is fulfill the [prerequisites](https://learn.micr
 
 
 ### Configuration parameters:
-| Parameter           | Value | Details                                                                                         |
-| ------------------- | ----- | ------------------------------------------------------------------------------------------------------------------ |
-| Temperature         | 0.5   | A low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
-| Max Response        | 150   | Short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload.                                            |
-| Top P               | 0.5   | This value was suggested by the bot itself: "allows to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy." |
-| Frequency Penalty   | 0.5   | A frequency penalty value of around 0.5-1.0 and a presence penalty value of around 0.5-1.0 can be a good starting point. These values will encourage the AI assistant to generate responses that are diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
-| Presence Penalty    | 0.5   |                                                                                                                      |
-| Stop Sequence       | 'Let me know if you have any other questions' | The stop sequence is a phrase that signals to the AI assistant that the user has received a satisfactory response and that it can stop generating additional information. |
+| Parameter          | Value | Details |
+| -------------------| ----- | ------- |
+| Temperature        | 0.5   | A low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
+| Max Response       | 150   | Short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload. |
+| Top P              | 0.5   | This value was suggested by the bot itself: "allows to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy." |
+| Frequency Penalty  | 0.5   | A frequency penalty value of around 0.5-1.0 and a presence penalty value of around 0.5-1.0 can be a good starting point. These values will encourage the AI assistant to generate responses that are diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy. |
+| Presence Penalty   | 0.5   |  |
+| Stop Sequence      | 'Let me know if you have any other questions' | The stop sequence is a phrase that signals to the AI assistant that the user has received a satisfactory response and that it can stop generating additional information. |
+
 
 ### Assistant setup
 **System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
