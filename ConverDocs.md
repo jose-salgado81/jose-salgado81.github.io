@@ -35,12 +35,43 @@ We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com
 RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
 
 # Azure Setup
+The first thing to do in Azure is fulfill the [prerequisites](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?pivots=programming-language-studio&tabs=command-line#prerequisites) for using Azure OpenAI services, which include creating an Azure Open AI resource with a model deployed. 
 
-# Large Language Model (LLM)
-The LLM that we will be usiung is GPT 3.5 through the Azure OpenAI Service
+## Model and Deployment
+| Spec            | Selection       |
+| --------------- | --------------- |
+| Model name      | gpt-35-turbo    |
+| Deployment name | converdocsgpt   |
+| Model revision  | 0301            |
+| Deployment type | standard        |
+| Capacity        | 120K TPM        |
 
 
 
 
 
+| Parameter         | Value                                      |
+| ----------------- | ------------------------------------------ |
+| Temperature       | 0.5                                        |
+| Max Response      | 150                                        |
+| Top P             | 0.5                                        |
+| Frequency Penalty | 0.5                                        |
+| Presence Penalty  | 0.5                                        |
+| Stop Sequence     | 'Let me know if you have any other questions' |
+
+A low temperature value (e.g. 0.5-0.7) may be more appropriate for this use case. This allows the AI assistant to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy.
+
+Short and to-the-point responses that are easy to read and can help to keep the conversation flowing, preventing cognitive overload.
+
+This value was suggested by the bot itself: "allows to generate responses that are both diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy."
+
+A frequency penalty value of around 0.5-1.0 and a presence penalty value of around 0.5-1.0 can be a good starting point. These values will encourage the AI assistant to generate responses that are diverse and relevant to the user's inquiry, while still maintaining a high level of coherence and accuracy.
+
+The stop sequence is a phrase that signals to the AI assistant that the user has received a satisfactory response and that it can stop generating additional information.
+
+
+
+
+### Assistant setup
+**System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
 
