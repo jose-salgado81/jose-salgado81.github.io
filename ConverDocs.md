@@ -35,9 +35,10 @@ We will be using [Retrieval Augmented Generation (RAG)](https://research.ibm.com
 RAG will also help reduce hallucinations and find vaccums of knowledge, as the model is comfortable saying: "I don't know".
 
 # Azure Setup
-The first thing to do in Azure is fulfill the [prerequisites](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?pivots=programming-language-studio&tabs=command-line#prerequisites) for using Azure OpenAI services, which include creating an Azure Open AI resource with a model deployed. 
+The first thing to do in Azure is fulfill the [prerequisites](https://learn.microsoft.com/en-us/azure/ai-seqrvices/openai/quickstart?pivots=programming-language-studio&tabs=command-line#prerequisites) for using Azure OpenAI services, which include creating an Azure Open AI resource with a model deployed. 
 
 ## Model and Deployment
+
 | Spec            | Selection       |
 | --------------- | --------------- |
 | Model name      | gpt-35-turbo    |
@@ -45,9 +46,6 @@ The first thing to do in Azure is fulfill the [prerequisites](https://learn.micr
 | Model revision  | 0301            |
 | Deployment type | standard        |
 | Capacity        | 120K TPM        |
-
-
-
 
 
 | Parameter         | Value                                      |
