@@ -60,13 +60,15 @@ The first thing to do in Azure is to fulfill the [prerequisites](https://learn.m
 - Create an Azure OpenAI Resource and a deployment
 
 ### Language Model
+
 | Spec            | Selection       |
-|:---------------:|:---------------:|
+| --------------- | --------------- |
 | Model name      | gpt-35-turbo    |
 | Deployment name | converdocsgpt   |
 | Model revision  | 0301            |
 | Deployment type | standard        |
 | Capacity        | 120K TPM        |
+
 
 | Parameter         | Value                                      |
 | ----------------- | ------------------------------------------ |
