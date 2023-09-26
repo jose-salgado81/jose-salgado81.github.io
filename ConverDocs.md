@@ -25,6 +25,7 @@ Let's use it as the foundation for this project. Off we go.
 
 ![Diagram of the architecture of the project](architecture.png "Abdul Zedan, 2023")
 
+
 Quick Description:  The Web App in the diagram will be the chatbot which will be operating at the endpoint: https://converdocs.openai.azure.com/ 
 
 The user asks a question and the query is sent to the Search Layer, based on Azure Cognitive Search. By that time, Azure Cognitive Search already has grounded the data from the knowledge base provided by any of the storage options available in Azure Storage.
