@@ -92,7 +92,3 @@ The stop sequence is a phrase that signals to the AI assistant that the user has
 ### Assistant setup
 **System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
 
-# Learning Resources
-
-To understand GPT technology:
-- [Transformers for beginners | What are they and how do they work](https://www.youtube.com/watch?v=_UVfwBqcnbM).
