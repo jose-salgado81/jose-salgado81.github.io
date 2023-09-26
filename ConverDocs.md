@@ -61,7 +61,7 @@ The first thing to do in Azure is to fulfill the [prerequisites](https://learn.m
 
 ### Language Model
 | Spec            | Selection       |
-| --------------- | --------------- |
+|:---------------:|:---------------:|
 | Model name      | gpt-35-turbo    |
 | Deployment name | converdocsgpt   |
 | Model revision  | 0301            |
