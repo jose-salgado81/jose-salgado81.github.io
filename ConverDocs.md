@@ -34,7 +34,7 @@ Azure Cognitive Search sends the top results from query to the OpenAI API as pro
 
 It looks very simple and maybe it is, we will see!
 
-*At a later stage, the MS Power Platform could be used to improve the features of the chatbot (virtual agents). At the beginning, we will use the chatbox as provided by the OpenAI Studio.
+**At a later stage, the MS Power Platform could be used to improve the features of the chatbot (virtual agents). At the beginning, we will use the chatbox as provided by the OpenAI Studio.*
 
 ## Knowledge Base
 The source data for the engine will be its own documentation, the documentation for ConverDocs.
@@ -45,7 +45,10 @@ To improve machine reading we are going to write everything in markdown files wi
 
 The mds and the pngs will be uploaded to Azure Cognitive Services, and a copy will be available [here]. 
 
-!> **Note:** A requirement for this project is to be able to feed insight to GPT about the content of the screenshots, diagrams, etc, so we need to figure out how to apply OCR, classify, tag, and organize such data using a consistent methodology that can be use throughout the documentation. Perhaps this is the main peculiarity of this project, the concern with incorporating the images and/or the content of the images, as long as they enhance the responses.
+<div class="callout note">
+  <strong>Note:</strong> A requirement for this project is to be able to feed insight to GPT about the content of the screenshots, diagrams, etc, so we need to figure out how to apply OCR, classify, tag, and organize such data using a consistent methodology that can be used throughout the documentation. Perhaps this is the main peculiarity of this project, the concern with incorporating the images and/or the content of the images, as long as they enhance the responses.
+</div>
+
 
 ### Sourcing the Knowledge to GPT
 
