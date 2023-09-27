@@ -37,13 +37,11 @@ It looks very simple and maybe it is, we will see!
 **At a later stage, the MS Power Platform could be used to improve the features of the chatbot (virtual agents). At the beginning, we will use the chatbox as provided by the OpenAI Studio.*
 
 ## Knowledge Base
-The source data for the engine will be its own documentation, the documentation for ConverDocs.
+The source data for the engine will be its own documentation, the documentation for ConverDocs, which is published at the [GitHub Wiki](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki/Documentation-for-ConverDocs#introducing-converdocs-your-conversational-documentation-companion) of this repo.
 
 The chatbot will reference the source of the knowledge to the markdown files, and the user will validate the bot answers there. Thus, they must be able to stand by themselves as fully functional documentation.
 
-To improve machine reading we are going to write everything in markdown files with markdown markup. The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a  screenshot editor that allows to template annotations.
-
-The mds and the pngs will be uploaded to Azure Cognitive Services, and a copy will be available [here]. 
+To improve machine reading we are going to write everything in markdown files with markdown markup. The screenshots will be enconded as pngs and annotated with a consistent method and style using Snagit, a  screenshot editor that allows to template annotations. Consistency in the screenshot annotations is important because eventually we expect GPT to understand them and know when to provide them to the user to improve clarity. This means some OCR processing will be part of the system, it could be through computer vision for GPT4 as recently announced by OpenAI [(ChatGPT can now see, hear, and speak)](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak), or through metadata provided to GPT3.5 trough OCR preprocessing.
 
 > **Note:** A requirement for this project is to be able to feed insight to GPT about the content of the screenshots, diagrams, etc., in the documentation. We need to figure out how to apply OCR, classify, tag, and organize such data using a consistent method that can be used throughout the documentation. Perhaps this is the main peculiarity of this project, the concern with incorporating the images and/or the content of the images, as long as they enhance the responses.
 
@@ -92,3 +90,5 @@ The stop sequence is a phrase that signals to the AI assistant that the user has
 ### Assistant setup
 **System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
 
+# Links
+- [ConverDocs Documentation](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki/Documentation-for-ConverDocs#introducing-converdocs-your-conversational-documentation-companion). The knowledge source for RAG. It contains basic ideas enriched and amplified by ChatGPT. The main goal is to quickly have a demo documentation to test the system on. The content is not important, but *the way to serve it* through a conversation.
