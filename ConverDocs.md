@@ -37,7 +37,7 @@ It looks very simple and maybe it is, we will see!
 **At a later stage, the MS Power Platform could be used to improve the features of the chatbot (virtual agents). At the beginning, we will use the chatbox as provided by the OpenAI Studio.*
 
 ## Knowledge Base
-The source data for the engine will be its own documentation, the documentation for ConverDocs, which is published at the [GitHub Wiki](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki/Documentation-for-ConverDocs#introducing-converdocs-your-conversational-documentation-companion) of this repo.
+The source data for the engine will be its own documentation, the documentation for ConverDocs, which is published at the [GitHub Wiki](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki) of this repo.
 
 The chatbot will reference the source of the knowledge to the markdown files, and the user will validate the bot answers there. Thus, they must be able to stand by themselves as fully functional documentation.
 
@@ -91,4 +91,4 @@ The stop sequence is a phrase that signals to the AI assistant that the user has
 **System Message:** 'You are an AI assistant that helps people find and understand information in the documentation of ConverDocs.' We keep this short because the system message counts towards the token limit of every user message.
 
 # Links
-- [ConverDocs Documentation](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki/Documentation-for-ConverDocs#introducing-converdocs-your-conversational-documentation-companion). The knowledge source for RAG. It contains basic ideas enriched and amplified by ChatGPT. The main goal is to quickly have a demo documentation to test the system on. The content is not important, but *the way to serve it* through a conversation.
+- [ConverDocs Documentation](https://github.com/jose-salgado81/jose-salgado81.github.io/wiki). The knowledge source for RAG. It contains basic ideas enriched and amplified by ChatGPT. The main goal is to quickly have a demo documentation to test the system on. The content is not important, but *the way to serve it* through a conversation.
