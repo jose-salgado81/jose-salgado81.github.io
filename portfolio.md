@@ -43,10 +43,13 @@ Templated production of micro tutorials to illustrate micro processes.
 - [How to activate second factor authentication in Google Account using text message (in 50 seconds)](https://app.screencast.com/FWETpDzUmO9U8)
 
    
-   
+
 
 ## **Written Communication**
-SEO Optimzed Articles published at CareerKarma.com
+
+### Client: CareerKarma.com
+SEO Optimzed Articles.
+
 1. [Low-Stress Jobs That Pay Well With No Degree](https://careerkarma.com/blog/low-stress-jobs-without-a-degree/)
 2. [Top Tips to Create the Best Desk Setup for Gaming](https://careerkarma.com/blog/best-desk-setup-for-gaming/)
 3. [The Top 10 Most Interesting Political Science Research Topics](https://careerkarma.com/blog/political-science-research-topics/)
