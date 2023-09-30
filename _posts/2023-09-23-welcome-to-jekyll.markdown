@@ -4,22 +4,12 @@ title:  "Welcome to Jekyll!"
 date:   2023-09-23 18:13:24 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Greetings,
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm working on ConverDocs, a project that combines ChatGPT's conversational abilities with detailed documentation. ConverDocs is designed to understand your questions and provide clear guidance. It's like having a helpful conversation. Whether you need detailed explanations or quick answers, ConverDocs can assist.
 
-Jekyll also offers powerful support for code snippets:
+For more details, check out the [wiki](https://github.com/jose-salgado81/converdocs/wiki). There, you'll find straightforward information about ConverDocs' features and how it works.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Diagram of the architecture of the project](/path/to/your/image.png)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Best regards.
