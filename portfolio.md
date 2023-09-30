@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Visual Communication
+## **Visual Communication**
 
 ### Client: AnyTrack
 Steps sequences illustrating and guiding setup processes. The sequences are encoded as mp4 videos.
@@ -42,7 +42,9 @@ Templated production of micro tutorials to illustrate micro processes.
 - [How to turn off 2 step verification from your Google Account (in 30 seconds)](https://app.screencast.com/5CUnAQl1aCgRf)
 - [How to activate second factor authentication in Google Account using text message (in 50 seconds)](https://app.screencast.com/FWETpDzUmO9U8)
 
-## Written Communication
+------
+
+## **Written Communication**
 SEO Optimzed Articles published at CareerKarma.com
 1. [Low-Stress Jobs That Pay Well With No Degree](https://careerkarma.com/blog/low-stress-jobs-without-a-degree/)
 2. [Top Tips to Create the Best Desk Setup for Gaming](https://careerkarma.com/blog/best-desk-setup-for-gaming/)
