@@ -6,6 +6,8 @@ permalink: /about/
 
 I am a freelance technical writer based in La Paz, Mexico. I help organizations develop and manage knowledge to facilitate the use of their software.
 
+![jose salgado picture](/jms%20pic.png)
+
 # Education
 * Bachelor of Science in Oceanology from Facultad de Ciencias Marinas, Universidad Autónoma de Baja California, 2006.
 * Master of Science in Education from Instituto de Investigación y Desarrollo Educativo, Universidad Autónoma de Baja California, 2008.
