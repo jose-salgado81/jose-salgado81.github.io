@@ -10,6 +10,6 @@ I'm working on ConverDocs, a project that combines ChatGPT's conversational abil
 
 For more details, check out the [wiki](https://github.com/jose-salgado81/converdocs/wiki). There, you'll find straightforward information about ConverDocs' features and how it works.
 
-![Diagram of the architecture of the project](/path/to/your/image.png)
+![Diagram of the architecture of the project](/architecture.png)
 
 Best regards.
