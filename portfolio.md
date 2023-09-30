@@ -6,25 +6,25 @@ permalink: /portfolio/
 
 ## Visual Communication
 
-### AnyTrack
+### Client: AnyTrack
 Steps sequences illustrating and guiding setup processes. The sequences are encoded as mp4 videos.
 - [Retrieve AnyTrack Tag from Shopify poperty](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/Retrieve%20AnyTrack%20Tag%20from%20Shopify%20poperty.gif)
 - [ClickBank Integration Setup](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/ClickBank%20Integration%20Setup.gif)
 - [Pasting AnyTrack Tag into the Shopify theme](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/Pasting%20AnyTrack%20Tag%20into%20the%20Shopify%20theme.gif)
 
-### Elta360
+### Client: Elta360
 Step sequences illustrating and guiding setup processes. These sequences are encoded as animated GIF images.
 - [Using the VR Editor 1](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/elta1.gif)
 - [Using the VR Editor 2](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/elta2.gif)
 - [Using the VR Editor 3](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/elta3.gif)
 
-### Mythicsoft
+### Client: Mythicsoft
 Short videos illustrating software features.
 - [Introduction to FileLocator Pro (Agent Ransack)](https://app.screencast.com/1zDa9EN9Lpulq)
 - [How to search emails in Outlook using FileLocator Pro](https://app.screencast.com/cfQs1ZuiqJmKB)
 - [Cómo buscar archivos en Outlook utilizando FileLocator Pro](https://app.screencast.com/4pYsD42KY6HRo)
 
-### Compusoft
+### Client: Compusoft
 Videos encouraging new users to engage in the training program right after purchasing the software.
 - [WinnerFlex Introductory Course Invitation Video](https://app.screencast.com/Nmf86nfguHTG0)
 - [WinnerFlex Einfürungskurs Einladungsvideo](https://app.screencast.com/FO8v9GZ8UdVqh)
