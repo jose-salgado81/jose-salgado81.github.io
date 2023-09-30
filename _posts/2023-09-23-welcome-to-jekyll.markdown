@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-09-23 18:13:24 -0700
+title:  "Exploring conversational documentation"
+date:   2023-09-27 18:13:24 -0700
 categories: jekyll update
 ---
 Greetings,
