@@ -42,7 +42,8 @@ Templated production of micro tutorials to illustrate micro processes.
 - [How to turn off 2 step verification from your Google Account (in 30 seconds)](https://app.screencast.com/5CUnAQl1aCgRf)
 - [How to activate second factor authentication in Google Account using text message (in 50 seconds)](https://app.screencast.com/FWETpDzUmO9U8)
 
-------
+   
+   
 
 ## **Written Communication**
 SEO Optimzed Articles published at CareerKarma.com
