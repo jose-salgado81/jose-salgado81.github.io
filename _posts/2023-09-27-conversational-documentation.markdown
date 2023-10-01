@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring conversational documentation"
+title:  "Exploring Conversational Documentation"
 date:   2023-09-27 18:13:24 -0700
 categories: jekyll update
 ---
