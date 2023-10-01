@@ -11,20 +11,17 @@ In [*Technical Writing: How to Write Software Documentation*](https://www.udemy.
 This is much appreciated information.
 
 Quality in Documentation KPIs:
-| **KPI**                              | **Attributes**                                                                                         |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| **Helpful**                          | solves problems, illustrates use cases (user journeys), remains relevant                               |
-| **Comprehensive**                    | uses consistent terminology, covers end-to-end processes, aligns with industry standards               |
-| **Searchable**                       | easy to find, easy search and navigation, SEO optimized                                                |
-| **Visual**                           | includes a lot of images, incorporates short videos, uses diagrams wherever possible                   |
-| **Usable**                           | short and to the point, well-organized by typical usage, provides answers with minimal effort          |
-| **Readable**                         | clear and easy to understand, well-structured content, suitable for the target audience                |
-| **Reliable**                         | information is from reliable sources and has been validated, up-to-date, accurate                      |
-| **Grammatically correct**            | easy to understand, no grammar errors, no spelling mistakes, meaningful language                       |
-| **Translatable and easy location**   | easy to translate to other languages, easy to localize                                                 |
-| **Accessible**                       | deployable by print or online, can be shared, logical location, accessible at the point of need        |
-| **Uses appropriate tone**            | direct, simple, adheres to guidelines and rules for writing                                            |
-
+- Helpful
+- Comprehensive
+- Searchable
+- Visual
+- Usable
+- Readable
+- Reliable
+- Grammatically correct
+- Translatable and localization friendly
+- Accessible
+- Uses appropriate tone
 
 However, it's crucial to note that these scores should stem from User Research and Analysis, not personal assessment.
 
