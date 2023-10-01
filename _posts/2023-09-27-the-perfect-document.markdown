@@ -23,7 +23,7 @@ Quality in Documentation KPIs:
 - Accessible
 - Uses appropriate tone
 
-However, it's crucial to note that these scores should stem from User Research and Analysis, not personal assessment.
+**The scores should stem from User Research and Analysis, not personal opinion.*
 
 ![Software Documentation Quality Chart](/documentationkpis.png)
 
