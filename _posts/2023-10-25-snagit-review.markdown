@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Review: Snagit for Technical Writers"
-date:   2023-09-30 16:00:00 -0700
+date:   2023-10-25 16:00:00 -0700
 categories: review
 ---
 # Snagit Is The Image Editor For Technical Writers
