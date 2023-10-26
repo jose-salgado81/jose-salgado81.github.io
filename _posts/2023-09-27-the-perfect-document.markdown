@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The KPIs for High-Quality Documentation"
+title:  "KPIs for High-Quality Documentation"
 date:   2023-09-30 20:13:24 -0700
 categories: jekyll update
 ---

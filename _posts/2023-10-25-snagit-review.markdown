@@ -15,3 +15,5 @@ If you are a technical writer, you should get the program anyway just for its sc
 Also, the program is an example of good coding practices; while it's highly creative, it's never chaotic. And at $50 for a perpetual license, Snagit is a good thing to buy. Try Snagit 2024 for free at [techsmith.com/screen-capture](https://www.techsmith.com/screen-capture.html)
 
 <img src="/snagit.png" alt="Snagit 2024 workspace">
+
+Best regards.
