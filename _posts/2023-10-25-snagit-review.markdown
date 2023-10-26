@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review: Snagit for Technical Writers"
+title:  "Snagit for Technical Writers"
 date:   2023-10-25 16:00:00 -0700
 categories: review
 ---
