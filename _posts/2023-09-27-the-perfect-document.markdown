@@ -2,7 +2,7 @@
 layout: post
 title:  "KPIs for High-Quality Documentation"
 date:   2023-09-30 20:13:24 -0700
-categories: jekyll update
+categories: writing documentation
 ---
 # Documentation Quality KPIs Found By Jordan Stanchev
 

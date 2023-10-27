@@ -2,7 +2,7 @@
 layout: post
 title:  "My Conversational Documentation Project (AI)"
 date:   2023-09-27 18:13:24 -0700
-categories: jekyll update
+categories: writing documentation
 ---
 Greetings,
 
