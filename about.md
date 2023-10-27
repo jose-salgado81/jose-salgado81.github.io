@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a freelance technical writer based in La Paz, Mexico. I help organizations develop and manage knowledge to facilitate the use of their software.
+I am a freelance technical writer based in La Paz, Mexico. I help organizations develop and manage knowledge to facilitate the use of their software. You can find more about my work and testimoniasls from my clients in my [Upwork profile](https://www.upwork.com/freelancers/~018d3a31f0feb078ff).
 
 ![jose salgado picture](/jms%20pic.png)
 
