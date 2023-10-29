@@ -1,3 +1,1 @@
 This is New Text
-
-This is the new text that will be removed.
