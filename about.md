@@ -38,7 +38,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 | [Ninja Writing: The Four Levels of Writing Mastery](https://www.linkedin.com/learning/certificates/e16c377926b889b6fb841b7c3cb22a1c023a0870337f52a8696d87907da14ed2) |  [Learning Sublime Text 3](https://www.linkedin.com/learning/certificates/66e05384e9b363ea5047ee48383c33907187b8aa710d9085d803db8db4fff46d) |
 
 <a href="/workspace_large.jpg">
-  <img src="/workspace_small.jpg" alt="Remote station and dog">
+  <img src="elta1.gif" alt="Remote station and dog">
 </a>
 
 # Skills
