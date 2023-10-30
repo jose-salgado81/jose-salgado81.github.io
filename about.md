@@ -31,13 +31,20 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 * Confluence
 * CMS (WordPress, Grav, Jekyll)
 * Linux (Ubuntu)
-
-
+* Azure Cognitive Services, Azure OpenAI
+* Miro
 
 # Skills
 * Agile collaboration (Scrum and Kanban boards)
 * Web development
-* 
+* Video Editing (Tutorials)
+* Animated GIF sequences
+* Markdown and HTML
+* Documentation development (Quick Start Guide, User Manual, How-To, FAQ, OST)
+* Knowledge Base Management (ReadMe.io, HubSpot)
+* Prompt Engineering
+* Diagrams and charts
+* Evidence-Based Research
 
 # LinkedIn Courses
 |----------|----------|
