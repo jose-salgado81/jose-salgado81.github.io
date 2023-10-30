@@ -22,9 +22,24 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
     * [Tools for Data Science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
     * [Data Science Methodology](https://coursera.org/share/e3bedd8ff257467579fb8b36435d473d)
 
+# Software
+* Visual Studio Code
+* Camtasia 2023
+* Snagit 2024
+* Git through GitHub
+* Trello
+* Confluence
+* CMS (WordPress, Grav, Jekyll)
+* Linux (Ubuntu)
+
+
+
+# Skills
+* Agile collaboration (Scrum and Kanban boards)
+* Web development
+* 
+
 # LinkedIn Courses
-
-
 |----------|----------|
 | [Technical Writing: Quick Start Guides](https://www.linkedin.com/learning/certificates/441455f8ad834bab8e997ccb715451cdd36939d9901c891edc32656338c8083f) | [HTML for Programmers](https://www.linkedin.com/learning/certificates/7f5a25ac294221067cad3c9484edef179838ec367c0cf54d6862114f6e71dfdc)|
 | [Learning Confluence](https://www.linkedin.com/learning/certificates/8769bca5746a249602c243fe8ab75e40e68ad39dcca9258375be0fa48ea5f1d2) | [Agile Foundations](https://www.linkedin.com/learning/certificates/d0c65fe32e3b506b84b3a9c4b04e702266d3925531825d10436cb38903c86646) |
@@ -36,6 +51,8 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 | [Learning API Documentation with JSON and XML](https://www.linkedin.com/learning/certificates/866ad9827f872600a2a53bfed3a1546aeae5c95adc2b346156564076ed4c9b4e) | [Learning YouTube Analytics](https://www.linkedin.com/learning/certificates/af0feb90df4bd8d9fd30b7166e63caef68a01feb55301e8e5a3b68cad5db3e86) |
 | [Learning Markdown](https://www.linkedin.com/learning/certificates/897107f597af6a9cb2f6fd2e66dfff4d9010f46f71f9f79c31064dcf680afca0) |[Remote Work Foundations](https://www.linkedin.com/learning/certificates/52c9a4a47e2f753d0c07438c9e21f7c8c2a33dbc5cac094f56b6a43fb46a0f8a)|
 | [Ninja Writing: The Four Levels of Writing Mastery](https://www.linkedin.com/learning/certificates/e16c377926b889b6fb841b7c3cb22a1c023a0870337f52a8696d87907da14ed2) |  [Learning Sublime Text 3](https://www.linkedin.com/learning/certificates/66e05384e9b363ea5047ee48383c33907187b8aa710d9085d803db8db4fff46d) |
+
+# Remote Workstation
 
 <a href="/workspace_large.jpg">
   <img src="/workspace_small.jpg" alt="Remote station and dog">
