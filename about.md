@@ -21,7 +21,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
     * [What is Data Science?](https://coursera.org/share/caefc6ff0dbf0a85c24efdf12e8acffd)
     * [Tools for Data Science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
     * [Data Science Methodology](https://coursera.org/share/e3bedd8ff257467579fb8b36435d473d)
-* [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github/home/module/2), ONGOING
+* [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github/home/module/2), Ongoing
 
 # Software
 * Visual Studio Code
