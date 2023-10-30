@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
 I am a freelance technical writer based in La Paz, Mexico. I help organizations develop and manage knowledge to facilitate the use of their software. You can find more about my work and read testimonials from my clients in my [Upwork profile](https://www.upwork.com/freelancers/~018d3a31f0feb078ff).
 
 ![jose salgado picture](/jms%20pic.png)
@@ -21,36 +20,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
     * [What is Data Science?](https://coursera.org/share/caefc6ff0dbf0a85c24efdf12e8acffd)
     * [Tools for Data Science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
     * [Data Science Methodology](https://coursera.org/share/e3bedd8ff257467579fb8b36435d473d)
-* [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github/home/module/2), Ongoing
 
-# Software
-* Visual Studio Code
-* Camtasia 2023
-* Snagit 2024
-* Git through GitHub
-* Trello
-* Confluence
-* CMS (WordPress, Grav, Jekyll, cPanel)
-* Linux (Ubuntu)
-* Azure Cognitive Services, Azure OpenAI
-* Miro
-* Doodly
-* Audacity
-
-# Skills
-* Agile collaboration (Scrum and Kanban boards)
-* Web Development
-* Video Editing (Tutorials)
-* Script Writing
-* Animated GIF sequences
-* Markdown and HTML
-* Documentation development (Quick Start Guide, User Manual, How-To, FAQ, OST)
-* Knowledge Base Management (ReadMe.io, HubSpot)
-* Prompt Engineering
-* Diagrams and charts
-* Evidence-Based Research
-* Pomodoro
-* Python scripts for batch-processing markdown and HTML files.
 
 # LinkedIn Courses
 
@@ -65,6 +35,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 | [Learning API Documentation with JSON and XML](https://www.linkedin.com/learning/certificates/866ad9827f872600a2a53bfed3a1546aeae5c95adc2b346156564076ed4c9b4e) | [Learning YouTube Analytics](https://www.linkedin.com/learning/certificates/af0feb90df4bd8d9fd30b7166e63caef68a01feb55301e8e5a3b68cad5db3e86) |
 | [Learning Markdown](https://www.linkedin.com/learning/certificates/897107f597af6a9cb2f6fd2e66dfff4d9010f46f71f9f79c31064dcf680afca0) |[Remote Work Foundations](https://www.linkedin.com/learning/certificates/52c9a4a47e2f753d0c07438c9e21f7c8c2a33dbc5cac094f56b6a43fb46a0f8a)|
 | [Ninja Writing: The Four Levels of Writing Mastery](https://www.linkedin.com/learning/certificates/e16c377926b889b6fb841b7c3cb22a1c023a0870337f52a8696d87907da14ed2) |  [Learning Sublime Text 3](https://www.linkedin.com/learning/certificates/66e05384e9b363ea5047ee48383c33907187b8aa710d9085d803db8db4fff46d) |
+
 
 # Remote Workstation
 <a href="/workspace_large.jpg">
