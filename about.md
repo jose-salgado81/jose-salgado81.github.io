@@ -21,6 +21,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
     * [What is Data Science?](https://coursera.org/share/caefc6ff0dbf0a85c24efdf12e8acffd)
     * [Tools for Data Science](https://coursera.org/share/ff36aabb2e49745066b7788e42cadb17)
     * [Data Science Methodology](https://coursera.org/share/e3bedd8ff257467579fb8b36435d473d)
+* [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github/home/module/2), ONGOING
 
 # Software
 * Visual Studio Code
@@ -29,15 +30,18 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 * Git through GitHub
 * Trello
 * Confluence
-* CMS (WordPress, Grav, Jekyll)
+* CMS (WordPress, Grav, Jekyll, cPanel)
 * Linux (Ubuntu)
 * Azure Cognitive Services, Azure OpenAI
 * Miro
+* Doodly
+* Audacity
 
 # Skills
 * Agile collaboration (Scrum and Kanban boards)
-* Web development
+* Web Development
 * Video Editing (Tutorials)
+* Script Writing
 * Animated GIF sequences
 * Markdown and HTML
 * Documentation development (Quick Start Guide, User Manual, How-To, FAQ, OST)
@@ -45,6 +49,8 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 * Prompt Engineering
 * Diagrams and charts
 * Evidence-Based Research
+* Pomodoro
+* Python scripts for batch-processing markdown and HTML files.
 
 # LinkedIn Courses
 |----------|----------|
@@ -60,7 +66,6 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 | [Ninja Writing: The Four Levels of Writing Mastery](https://www.linkedin.com/learning/certificates/e16c377926b889b6fb841b7c3cb22a1c023a0870337f52a8696d87907da14ed2) |  [Learning Sublime Text 3](https://www.linkedin.com/learning/certificates/66e05384e9b363ea5047ee48383c33907187b8aa710d9085d803db8db4fff46d) |
 
 # Remote Workstation
-
 <a href="/workspace_large.jpg">
   <img src="/workspace_small.jpg" alt="Remote station and dog">
 </a>
