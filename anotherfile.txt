@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is New Text
+=======
+This is another text file.
+>>>>>>> parent of e41e4f7 (This is the comment for the commit that will be)
