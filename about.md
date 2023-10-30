@@ -53,6 +53,7 @@ I am a freelance technical writer based in La Paz, Mexico. I help organizations 
 * Python scripts for batch-processing markdown and HTML files.
 
 # LinkedIn Courses
+
 |----------|----------|
 | [Technical Writing: Quick Start Guides](https://www.linkedin.com/learning/certificates/441455f8ad834bab8e997ccb715451cdd36939d9901c891edc32656338c8083f) | [HTML for Programmers](https://www.linkedin.com/learning/certificates/7f5a25ac294221067cad3c9484edef179838ec367c0cf54d6862114f6e71dfdc)|
 | [Learning Confluence](https://www.linkedin.com/learning/certificates/8769bca5746a249602c243fe8ab75e40e68ad39dcca9258375be0fa48ea5f1d2) | [Agile Foundations](https://www.linkedin.com/learning/certificates/d0c65fe32e3b506b84b3a9c4b04e702266d3925531825d10436cb38903c86646) |
