@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-I am a freelance technical writer based in La Paz, Mexico. I help organizations develop and manage knowledge to facilitate the use of their software. You can find more about my work and read testimonials from my clients in my [Upwork profile](https://www.upwork.com/freelancers/~018d3a31f0feb078ff).
+I'm a technical writer and customer success executive for [AnyTrack.io](https://anytrack.io). AnyTrack allows you to orchestrate and harmonize your traffic data to optimize your digital marketing efforts.
 
 ![jose salgado picture](/jms%20pic.png)
 
