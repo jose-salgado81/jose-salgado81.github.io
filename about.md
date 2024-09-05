@@ -3,6 +3,8 @@ layout: page
 title: About me
 permalink: /about/
 ---
+Testing edidir directly on github.
+
 I'm a technical writer and customer success executive for [AnyTrack.io](https://anytrack.io). AnyTrack allows you to orchestrate and harmonize your traffic data to optimize your digital marketing efforts.
 
 ![jose salgado picture](/jms%20pic.png)
