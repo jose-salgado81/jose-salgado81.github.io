@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ### Client: AnyTrack
 Steps sequences illustrating and guiding setup processes. The sequences are encoded as mp4 videos.
-- [Retrieve AnyTrack Tag from Shopify poperty](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/Retrieve%20AnyTrack%20Tag%20from%20Shopify%20poperty.gif)
+- [Retrieve and copy the AnyTrack Tag](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/Retrieve%20AnyTrack%20Tag%20from%20Shopify%20poperty.gif)
 - [ClickBank Integration Setup](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/ClickBank%20Integration%20Setup.gif)
 - [Pasting AnyTrack Tag into the Shopify theme](https://github.com/jose-salgado81/jose-salgado81.github.io/blob/main/Pasting%20AnyTrack%20Tag%20into%20the%20Shopify%20theme.gif)
 
