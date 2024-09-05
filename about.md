@@ -3,9 +3,8 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Testing edidir directly on github.
 
-I'm a technical writer and customer success executive for [AnyTrack.io](https://anytrack.io). AnyTrack allows you to orchestrate and harmonize your traffic data to optimize your digital marketing efforts.
+I'm a technical writer and knowledge base manager at [AnyTrack.io](https://readme.anytrack.io), a platform that sends conversion data to the Conversion API using no-code integrations. I live in [La Paz](https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur), a cool seaside spot in Baja California Sur, Mexico.
 
 ![jose salgado picture](/jms%20pic.png)
 
