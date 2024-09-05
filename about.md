@@ -6,6 +6,8 @@ permalink: /about/
 
 I'm a technical writer and knowledge base manager at [AnyTrack.io](https://readme.anytrack.io), a platform that sends conversion data to the Conversion API using no-code integrations. I live in [La Paz](https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur), a cool seaside spot in Baja California Sur, Mexico.
 
+And of course, I'm also into the dropshipping hustle at [ReallyCoolMugs](https://reallycoolmugs.com/)
+
 ![jose salgado picture](/jms%20pic.png)
 
 # Education
